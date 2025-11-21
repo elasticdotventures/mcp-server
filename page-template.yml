@@ -1,7 +1,7 @@
 bootstrap.Page:
   cdn: true
   theme: Pulse
-  name: Application Page Template
+  name: 🥾 b00t MCP Documentation
   language: EN
   stylesheets: 
     - https://cdn.jsdelivr.net/gh/Nasdanika-Models/html-app@master/gen/web-resources/css/app.css 
